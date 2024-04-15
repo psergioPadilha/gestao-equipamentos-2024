@@ -1,5 +1,10 @@
 # Gestão de Equipamentos
 
+<p align="center">
+	<img width="650" src="docs/img/gestao-equipamentos.gif">
+</p>
+
+
 ## Projeto
 
 Desenvolvido durante o curso Fullstack da [Academia do Programador](https://www.academiadoprogramador.net) 2024
